@@ -12,7 +12,13 @@ Este repositório foi criado para a Jornada Python da Hashtag Treinamentos.
 
 Automação de cadastro de produtos com Python.
 
-[Codigo](./python-power-up-aula-01.py)
+[Codigo](./aula-01-python-power-up.ipynb)
+
+### 02 - Python Insights: Analisando Dados com Python
+
+Analisando Dados com Python.
+
+[Codigo](./aula-02-python_insights.ipynb)
 
 ## 💻 Tecnologias e Ferramentas
 
