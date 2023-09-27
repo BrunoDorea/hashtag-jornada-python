@@ -1,6 +1,6 @@
 # Jornada Python | Hashgtag Treinamentos
 
-[![wakatime](https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc.svg)](https://wakatime.com/@68660678-6b86-4b78-98df-f5f41a37e1bc)
+[![wakatime](https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/1b76b762-ee44-48bb-947f-fb23acdcda1a.svg)](https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/1b76b762-ee44-48bb-947f-fb23acdcda1a)
 
 ## 💼 Sobre o projeto
 
@@ -11,6 +11,8 @@ Este repositório foi criado para a Jornada Python da Hashtag Treinamentos.
 ### 01 - Python Power Up: Automação de Tarefas
 
 Automação de cadastro de produtos com Python.
+
+[Codigo](./python-power-up-aula-01.py)
 
 ## 💻 Tecnologias e Ferramentas
 
