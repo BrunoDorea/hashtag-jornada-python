@@ -20,6 +20,12 @@ Analisando Dados com Python.
 
 [Codigo](./aula-02-python_insights.ipynb)
 
+### 03 - Python IA: Inteligência Artificial e Previsões
+
+Previsão de dados com inteligencia artificial.
+
+[Codigo](./aula-03-python-ia.ipynb)
+
 ## 💻 Tecnologias e Ferramentas
 
 ![Markdown](https://img.shields.io/static/v1?style=for-the-badge&message=Markdown&color=000000&logo=Markdown&logoColor=FFFFFF&label=)
