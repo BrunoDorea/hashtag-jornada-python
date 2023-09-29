@@ -26,6 +26,11 @@ Previsão de dados com inteligencia artificial.
 
 [Codigo](./aula-03-python-ia.ipynb)
 
+### 04 - Python Dev: Criação de Sites e Sistemas com Python
+
+[Codigo](./aula-04-python_dev.py)
+
+
 ## 💻 Tecnologias e Ferramentas
 
 ![Markdown](https://img.shields.io/static/v1?style=for-the-badge&message=Markdown&color=000000&logo=Markdown&logoColor=FFFFFF&label=)
